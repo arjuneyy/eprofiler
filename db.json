@@ -5,6 +5,8 @@
 			"name": "Arjun Manipes",
 			"position": "Software Developer",
 			"imageUrl": "http://www.atlantichousefm.com/assets/img/CATLEY_LAKEMAN-Russell.jpg"
+		}, {
+			"test": "Test post-receive hook."
 		}
 	]
 }
